@@ -104,6 +104,7 @@ text.addEventListener('input', e => {
 	// console.log(insertedText);
 	if(insertedText === randomWord){
 		addWordToDOM();
+		updateScore();
 
 		// Clear
 		e.target.value = '';

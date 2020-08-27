@@ -1,0 +1,13 @@
+{
+  "name": "t-typing-game",
+  "version": "1.0.0",
+  "description": "Game to beat the clock by typing random words",
+  "main": "script.js",
+  "scripts": {
+    "start": "serve"
+  },
+  "dependencies": {
+    "serve": "^11.3.2"
+  },
+  "author": "M Toufiq ELAHI"
+}
